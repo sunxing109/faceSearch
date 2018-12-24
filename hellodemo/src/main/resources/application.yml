@@ -1,0 +1,8 @@
+name: xiaoxixi
+age: 1
+content: "xiaoxixi:1"
+server:
+  port: 8080
+student:
+  name: xiaoxi
+  age: 15
