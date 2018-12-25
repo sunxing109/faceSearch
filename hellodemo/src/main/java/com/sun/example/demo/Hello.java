@@ -32,6 +32,7 @@ public class Hello {
             sbcontent.append(";");
             sbcontent.append("age:");
             sbcontent.append(studentProperties.getAge());
+        System.out.println("dd");
         return sbcontent.toString();
     }
 }
